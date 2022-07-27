@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Bebas Neue", cursive;
+}
+
+.banner-bg {
+  background: #fff9f4;
+}
+.button-bg {
+  background: #3d4ff3;
+  color: #fff9f4;
+  transition: 0.3s;
+}
+.button-bg:hover {
+  border: 1px solid #3d4ff3;
+  color: #000;
+}
+.shooes-bg {
+  background-color: #f1f1f1;
+  padding: 50px;
+}
+.card-footer {
+  background: #fff !important;
+}
+.price {
+  color: #fa804c;
+}
+.title-color {
+  color: #363958;
+}
+.p-color {
+  color: #3e3e3e;
+  line-height: 26px;
+}
